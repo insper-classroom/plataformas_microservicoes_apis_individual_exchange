@@ -10,3 +10,4 @@ curl -H "Authorization: Bearer seu_token_aqui" http://127.0.0.1:8000/exchange/US
 # Token de teste
 
 token_secretoooo# plataformas_microservicoes_apis_individual_exchange
+# plataformas_microservicoes_apis_individual_exchange
